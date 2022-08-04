@@ -10,4 +10,8 @@ package br.com.pacetech.pacetech.git;
  */
 public class Util {
     
+    public static void main(String[] args) {
+        System.out.println("Novo metodo!");
+    }
+    
 }
